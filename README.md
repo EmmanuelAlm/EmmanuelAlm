@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning MERN.
 - 📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/emmanuel-almonte-6b066b189/)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/emmanuel-almonte-6b066b189/)
 - 
 
 <!---
