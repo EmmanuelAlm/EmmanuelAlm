@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmmanuelAlmonte
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Development
 - 🌱 
 - Visit my website [here](http://emmanuelalmonte.com/)
 
