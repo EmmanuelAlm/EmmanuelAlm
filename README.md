@@ -3,7 +3,7 @@
 - 🌱 
 - Visit my website [here](http://emmanuelalmonte.com/)
 - 📫 How to reach me: 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-almonte-6b066b189/)
+
 - 
 
 <!---
